@@ -6,38 +6,6 @@ Currently focusing on building scalable applications, APIs and learning more abo
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-- Java
-- C#
-- JavaScript / TypeScript
-- Python
-
-### Frameworks
-- Spring Boot
-- ASP.NET
-
-### Databases
-- SQL Databases
-- NoSQL Databases
-
-### DevOps & Tools
-- Git / GitHub
-- Docker
-- Azure
-
-### Systems
-- Linux
-- Windows
-
-### APIs & Networking
-- REST APIs
-- API Design
-- Postman / API Testing
-
----
-
 ## 💻 What I'm currently working on
 
 - Backend applications with **Spring Boot**
