@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**huthuthiddeli/huthuthiddeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a strong interest in backend development, cloud technologies and modern web architectures.
 
-Here are some ideas to get you started:
+Currently focusing on building scalable applications, APIs and learning more about distributed systems and cloud-native development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- Java
+- C#
+- JavaScript / TypeScript
+- Python
+
+### Frameworks
+- Spring Boot
+- ASP.NET
+
+### Databases
+- SQL Databases
+- NoSQL Databases
+
+### DevOps & Tools
+- Git / GitHub
+- Docker
+- Azure
+
+### Systems
+- Linux
+- Windows
+
+### APIs & Networking
+- REST APIs
+- API Design
+- Postman / API Testing
+
+---
+
+## 💻 What I'm currently working on
+
+- Backend applications with **Spring Boot**
+- REST API development
+- Containerized applications using **Docker**
+- Cloud deployments and infrastructure with **Azure**
+
+---
+
+## 📂 Projects
+
+Here you can find some of the projects I am working on:
+
+- Backend APIs and services
+- Fullstack web applications
+- Experiments with cloud and container technologies
+- Learning projects exploring new frameworks and architectures
+
+More projects are continuously being added as I expand my portfolio.
+
+---
+
+## 📚 Interests
+
+- Backend architecture
+- Cloud computing
+- API design
+- Distributed systems
+- Clean and maintainable software design
+
+---
+
+## 📫 Connect with me
+- Website: **Work in Progress**
+- GitHub: https://github.com/huthuthiddeli
+
+Feel free to explore my repositories and follow my work.
