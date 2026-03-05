@@ -1,45 +1,48 @@
 # Hi there 👋
 
-I'm a software developer with a strong interest in backend development, cloud technologies and modern web architectures.
+I'm a software developer interested in backend development, APIs and modern software architectures.
 
-Currently focusing on building scalable applications, APIs and learning more about distributed systems and cloud-native development.
+Currently I am building projects to expand my portfolio and deepen my knowledge in backend systems, cloud technologies and containerized applications.
 
 ---
 
-## 💻 What I'm currently working on
+## 🚀 What you'll find here
 
-- Backend applications with **Spring Boot**
-- REST API development
-- Containerized applications using **Docker**
-- Cloud deployments and infrastructure with **Azure**
+On this GitHub profile I share projects related to:
+
+- Backend development
+- REST API design
+- Web applications
+- Experiments with cloud and container technologies
+
+Many of these projects are part of my learning journey as I continue improving my skills and exploring new technologies.
 
 ---
 
 ## 📂 Projects
 
-Here you can find some of the projects I am working on:
+Some of the repositories on this profile include:
 
-- Backend APIs and services
-- Fullstack web applications
-- Experiments with cloud and container technologies
-- Learning projects exploring new frameworks and architectures
+- backend services and REST APIs
+- web applications
+- smaller experimental projects to explore new technologies
 
-More projects are continuously being added as I expand my portfolio.
+More projects will be added over time as I continue building my portfolio.
 
 ---
 
 ## 📚 Interests
 
 - Backend architecture
-- Cloud computing
+- Cloud technologies
 - API design
-- Distributed systems
-- Clean and maintainable software design
+- Clean and maintainable code
+- Learning new technologies
 
 ---
 
-## 📫 Connect with me
-- Website: **Work in Progress**
+## 📫 Contact
+- Website: Work in Progress
 - GitHub: https://github.com/huthuthiddeli
 
-Feel free to explore my repositories and follow my work.
+** And yes this is generated with AI - for now **
